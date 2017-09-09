@@ -1,2 +1,4 @@
 Hello
 My name is alawi.
+Im learning how to use Git.
+
